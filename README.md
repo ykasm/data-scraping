@@ -41,4 +41,5 @@ This project will help you:
 2. **HTML Parsing**: `BeautifulSoup` parses the page, extracting useful data from HTML tags.
 3. **Data Storage**: The extracted data (Date, Prices, Volume) is written to a CSV file, making it easy to work with in other tools.
 
-
+## Download the Dataset
+https://www.kaggle.com/datasets/asmonline/apple-stock-history-1990-2024
