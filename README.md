@@ -1,4 +1,4 @@
-# 📊 Apple Stock Data Scraper
+# 📊 Apple Stock Data Scraping
 
 This Python project scrapes historical stock data for Apple Inc. (AAPL) from Yahoo Finance and saves it in a CSV file. It’s a great way to learn **web scraping** and **data handling** with Python.
 
